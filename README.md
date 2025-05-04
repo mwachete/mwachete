@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Alex (19).<br><br>I'm a full stack programmer & developer on Roblox!<br><br>I'm currently working with one studio part-time, and working on building up my portfolio to truly display my skills.<br><br>My aim for 2025 is to create a solo project I can truly be proud of, and get it past the production stage! I struggle with being a perfectionist sometimes, which results in me often scrapping projects far too often. I am also looking to expand my horizons this year to include development in other engines such as godot!
+Hi! My name is Alex (19).<br><br>I'm a full stack programmer & developer on Roblox!<br><br>I'm currently working with one studio part-time, and working on building my portfolio to properly display my skill.<br><br>My aim for 2025 is to create a solo project I can truly be proud of, and get it past the production stage! I struggle with being a perfectionist sometimes, which often results in me scrapping projects. I'm also looking to expand my horizons this year to include development in other engines such as godot!
 
 
 ## 🌐 Socials:
