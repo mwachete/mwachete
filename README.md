@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Alex (19).<br><br>I'm a full stack programmer & developer on Roblox!<br><br>I'm currently working with one studio part-time, and working on building my portfolio to properly display my skill.<br><br>My aim for 2025 is to create a solo project I can truly be proud of, and get it past the production stage! I struggle with being a perfectionist sometimes, which often results in me scrapping projects. I'm also looking to expand my horizons this year to include development in other engines such as godot!
+Hi! My name is Alex (19).<br><br>I'm a full stack programmer & developer on Roblox!<br><br>I'm currently working with one studio part-time, and working on building my portfolio to properly display my skill.<br><br>My aim for 2025 is to create a solo project I can truly be proud of, and get it past the production stage! I struggle with being a perfectionist sometimes, which often results in me scrapping projects. I'm also looking to expand my horizons this year to include development in other engines such as godot!<br><br>I am currently available for hire, please get in touch via Discord (@mwachete) with details on your project, and we can discuss price!
 
 
 ## 🌐 Socials:
@@ -11,6 +11,3 @@ Hi! My name is Alex (19).<br><br>I'm a full stack programmer & developer on Robl
 ![](https://github-readme-stats.vercel.app/api?username=mwachete&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mwachete&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwachete&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mwachete&icon=7&color=12)](https://visitcount.itsvg.in)
