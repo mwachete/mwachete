@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Alex (19).<br><br>I'm a full stack programmer & developer on Roblox!<br><br>I'm currently working with a partner of mine on many projects you can find over at [my talent page](https://create.roblox.com/talent/creators/5831742201)!<br><br>I am available for hire, please get in touch via Discord (@mwachete) with details on your project!
+Hi! My name is Alex (20).<br><br>I'm a full stack programmer & developer on Roblox!<br><br>I'm currently working with a partner of mine on many projects you can find over at [my talent page](https://create.roblox.com/talent/creators/5831742201)!<br><br>I am available for hire, please get in touch via Discord (@mwachete) with details on your project!
 
 
 ## 🌐 Socials:
